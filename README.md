@@ -30,7 +30,7 @@ En el ejercicio hay 3 tipos de ficheros y carpetas:
 - La 🗂️ carpeta `src/`: son los ficheros con lo que he estado trabajando (components, images, audio, services y styles)
 - La 📂 carpeta `docs/`, que es generada gracias a React. En ella se encuentra la versión de producción, que es la que voy a mostrar al mundo 🌍.
 
-# Autoras\* ✒️
+# Autoras ✒️
 
 - [Bea Figueroa](https://github.com/beafig)
 - [Marina Caro](https://github.com/marinacr92)
